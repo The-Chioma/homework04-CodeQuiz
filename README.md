@@ -8,10 +8,9 @@ You can view all highscores by clicking "View Highcores".
 This quiz will store highscores of all players until the user clears the highscores by clicking the "Clear Highscores" button.
 
 The URL of the deployed application:
+
 https://the-chioma.github.io/homework04-CodeQuiz/
 
 The URL of the GitHub repository:
+
 https://github.com/The-Chioma/homework04-CodeQuiz
-
-
-
